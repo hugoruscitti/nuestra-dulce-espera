@@ -1,0 +1,36 @@
+{
+  "name": "nuestra dulce espera",
+  "short_name": "nuestra dulce espera",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#e591ff",
+  "theme_color": "black",
+  "scope": ".",
+  "description": "nuestra dulce espera",
+  "icons": [
+    {
+      "src": "public/manifest-icon-192.maskable.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "public/manifest-icon-192.maskable.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "public/manifest-icon-512.maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "public/manifest-icon-512.maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
