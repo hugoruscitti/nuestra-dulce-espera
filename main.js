@@ -131,7 +131,7 @@ function dibujar_tabla() {
     });
 
     tr.innerHTML = `
-      <td class="semana ${semana.clase}">Semana ${semana.semana+1}</td>
+      <td class="semana ${semana.clase}">Semana ${semana.semana}</td>
       <td class="dias">
         ${dias.join("")}
       </td>
