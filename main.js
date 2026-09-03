@@ -56,7 +56,7 @@ function dibujar_tabla() {
   const UN_DIA = 1000 * 60 * 60 * 24;
 
   // fecha de gestación y fecha actual.
-  const comienzo = new Date(2026, 5, 7)
+  const comienzo = new Date(2026, 5, 4)
   let hoy = null
 
   if (FECHA_DE_NACIMIENTO) {
